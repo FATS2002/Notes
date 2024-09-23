@@ -51,7 +51,16 @@ nmap.org [fulldocumentation]
 |5.FTP AND UDP  </br>                                     |                                                     |
 | 6.What is example of udp </br>                          |                                                     | 
 |7. what are protocols?  FTP UDP   </br>                   |                                      |
+|                              ||
 
+       questions                                     | sites                                                   |  
+|---------------------------------------------------------|-----------------------------------------------------|
+|1.                                    |                                                     |
+
+
+
+archive.org->go to way back machine
+Terminal                   [nmap google.com]
 
 
 
