@@ -40,7 +40,7 @@ nmap.org [fulldocumentation]
 
 
 
-|       questions                                     | sites                                                   |  
+|       questions                                         | sites                                               |  
 |---------------------------------------------------------|-----------------------------------------------------|
 |1. 7 Layers  Of OSI                                      |                                                     |                  
 |2. FTP AND UDP                                           |To be updated                                        |
@@ -50,23 +50,26 @@ nmap.org [fulldocumentation]
 |4. classes in network?                                   |                                                     |
 |5.FTP AND UDP  </br>                                     |                                                     |
 | 6.What is example of udp </br>                          |                                                     | 
-|7. what are protocols?  FTP UDP   </br>                   |                                      |
-|                              ||
+|7. what are protocols?  FTP UDP   </br>                  |                                                     |
+|8.                                                       |                                                     |
 
-|                                      | commands                                          |  
-|---------------------------------------|--------------------------------------------------|
-|1. 7 layers OSI                        |                                                  |
-|2. TCP/UDP                              |to be updated                                   |
-|3.Tcp header                            |                                                 | 
-|4.TCP classaification                   |                                                 |
-|5.subnetting                            |                                                 |
-|6.routers / switches                    |                                                 |
-|7. 3 way handshaking                    |                                                 | 
-|8.Private key & Public key              |                                                 |
-|9.HTTP& HTTPS                           |                                                 |
-|10. IPv4 and  IPv6                      |                                                 |
-|11.private IP and public IP             |                                                 |
-|12.Encryption and Hashing and </br> decryption|                                           |
+|                                                         | commands                                            |  
+|---------------------------------------------------------|-----------------------------------------------------|
+|1. 7 layers OSI                                          |                                                     |
+|2. TCP/UDP                                               |to be updated                                        |
+|3.Tcp header                                             |                                                     | 
+|4.TCP classaification                                    |                                                     |  
+|5.subnetting                                             |                                                 |
+|6.routers / switches                                     |                                                 |
+|7. 3 way handshaking                                     |                                                 | 
+|8.Private key & Public key                               |                                                 |
+|9.HTTP& HTTPS                                            |                                                 |
+|10. IPv4 and  IPv6                                       |                                                 |
+|11.private IP and public IP                              |                                                 |
+|12.Encryption and Hashing and </br> decryption           |                                                 |
+
+
+
 archive.org->go to way back machine
 
 
