@@ -27,13 +27,19 @@ q.FTP AND UDP  </br>
 q.What is example of udp </br>
 q. 3 way handshaking protocols </br> 
 q. what is TTL Time to live  value of windows?  </br>
-
 q. classes in network?  
 q.what is private IP add and public ip address?
+
+||
 site :-  nmap.org   for nw scanning[nw mapper]
 
 download windows 7  in vm ware
 
+get mac address of windows :- [command - getmac]  </br>
+
+
+nmap.org [fulldocumentation]
+q.  what is nmap? </br>
 
 
 
