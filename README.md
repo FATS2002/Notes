@@ -22,13 +22,12 @@ q. what are protocols?  FTP UDP   </br>
 Network Scanning      </br>
 vulnerability scanning  </br>
 
-q.  7 Layers  Of OSI
+
 q.FTP AND UDP  </br>
 q.What is example of udp </br>
 q. 3 way handshaking protocols </br> 
 q. what is TTL Time to live  value of windows?  </br>
-q. classes in network?  
-q.what is private IP add and public ip address?
+
 
 ||
 site :-  nmap.org   for nw scanning[nw mapper]
@@ -39,8 +38,18 @@ get mac address of windows :- [command - getmac]  </br>
 
 
 nmap.org [fulldocumentation]
-q.  what is nmap? </br>
 
+
+
+|       questions                                     | sites                                                   |  
+|---------------------------------------------------------|-----------------------------------------------------|
+|1. 7 Layers  Of OSI                                      |                                                     |                  
+|2. FTP AND UDP                                           |To be updated                                        |
+|3. what is private IP add and public ip address?         |                                                     | 
+|3.  what is nmap? </br>                                  |                                                     |
+|what is TTL Time to live  value of windows?              |                                                     |
+|4. classes in network?                                   |                                                      |
+|5.FTP AND UDP  </br>
 
 
 
