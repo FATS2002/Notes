@@ -23,8 +23,7 @@ Network Scanning      </br>
 vulnerability scanning  </br>
 
 
-q.FTP AND UDP  </br>
-q.What is example of udp </br>
+
 q. 3 way handshaking protocols </br> 
 q. what is TTL Time to live  value of windows?  </br>
 
@@ -48,8 +47,10 @@ nmap.org [fulldocumentation]
 |3. what is private IP add and public ip address?         |                                                     | 
 |3.  what is nmap? </br>                                  |                                                     |
 |what is TTL Time to live  value of windows?              |                                                     |
-|4. classes in network?                                   |                                                      |
-|5.FTP AND UDP  </br>
+|4. classes in network?                                   |                                                     |
+|5.FTP AND UDP  </br>                                     |                                                     |
+| 6.What is example of udp </br>                          |                                                     | 
+|7. what are protocols?  FTP UDP   </br>                   |                                      |
 
 
 
