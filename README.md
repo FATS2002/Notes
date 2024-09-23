@@ -53,19 +53,23 @@ nmap.org [fulldocumentation]
 |7. what are protocols?  FTP UDP   </br>                   |                                      |
 |                              ||
 
-|                                      | commands                                             |  
-|---------------------------------------|-----------------------------------------------------|
+|                                      | commands                                          |  
+|---------------------------------------|--------------------------------------------------|
 |1. 7 layers OSI                        |                                                  |
-|2. TCP/UDP                              |to be u
-|3.Tcp header                            |                                                         | 
-|4.TCP classaification |                 |                                              |
-|5.subnetting |  |
-|6.routers / switches|                        |
-|7. 3 way handshaking|     |
-|8.PRIVATE KEY AND PUBLIC KEY||
-|9.HTTP& HTTPS|                    |
-|10. IPv4 and  IPv6||
+|2. TCP/UDP                              |to be updated                                   |
+|3.Tcp header                            |                                                 | 
+|4.TCP classaification                   |                                                 |
+|5.subnetting                            |                                                 |
+|6.routers / switches                    |                                                 |
+|7. 3 way handshaking                    |                                                 | 
+|8.Private key & Public key              |                                                 |
+|9.HTTP& HTTPS                           |                                                 |
+|10. IPv4 and  IPv6                      |                                                 |
+|11.private IP and public IP             |                                                 |
+|12.Encryption and Hashing and </br> decryption|                                           |
 archive.org->go to way back machine
+
+
 Terminal                   [nmap google.com]
 [showden.io]
 [buzzsome]
