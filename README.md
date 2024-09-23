@@ -63,7 +63,7 @@ nmap.org [fulldocumentation]
 |---------------------------------------------------------|-------------------------------------------------|
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
-|12.Encryption and Hashing and  decryption                |                                                 |
+|12.Encryption and Hashing                |                                                 |
 |13. FTP &UDP                                             |                                                 |
 |14.What are protocols.                                   |                                                 |
 |15.What is example of udp                                |                                                 | 
