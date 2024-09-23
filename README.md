@@ -57,7 +57,10 @@ nmap.org [fulldocumentation]
 |6.routers / switches                                     |                                                 |
 |7. 3 way handshaking                                     |                                                 | 
 |8.Private key & Public key                               |                                                 |
+
+
 |9.HTTP& HTTPS                                            |                                                 |
+|===========|------------------|
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
 |12.Encryption and Hashing and  decryption           |                                                 |
