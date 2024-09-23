@@ -31,7 +31,6 @@ q. what is TTL Time to live  value of windows?  </br>
 ||
 site :-  nmap.org   for nw scanning[nw mapper]
 
-download windows 7  in vm ware
 
 get mac address of windows :- [command - getmac]  </br>
 
@@ -42,7 +41,7 @@ nmap.org [fulldocumentation]
 
 |Linux                                           | commands                                            |  
 |---------------------------------------------------------|-----------------------------------------------------|              
-|4. classes in network                                   |                                                     |
+|            get n   ||
 
 
 ---
@@ -61,17 +60,19 @@ nmap.org [fulldocumentation]
 |9.HTTP& HTTPS                                            |                                                 |
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
-|12.Encryption and Hashing and </br> decryption           |                                                 |
+|12.Encryption and Hashing and  decryption           |                                                 |
 |13. FTP &UDP                                             |                                                 |
 |14.What are protocols.                                   |                                                 |
 |15.What is example of udp                                |                                                 | 
 |16.  what is nmap?                                       |                                                     |
 |17.what is TTL Time to live  value of windows            |                                                     |
+|4. classes in network                                   |                                                     |
 
 archive.org->go to way back machine
 
 
 Terminal                   [nmap google.com]
+
 [showden.io]
 [buzzsome]
 
