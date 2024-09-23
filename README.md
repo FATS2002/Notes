@@ -18,15 +18,15 @@ Email foot printing:-securitytrails.com
                                  - pentesttools.com
 q. 3 types scanning : [closed ports and open ports]
 
-q. what are protocols?  FTP 
-Network Scanning
-vulnerability scanning
+q. what are protocols?  FTP UDP   </br>
+Network Scanning      </br>
+vulnerability scanning  </br>
 
 q.  7 Layers  Of OSI
-q.FTP AND UDP
-q.What is example of udp
-q. 3 way handshaking protocols
-q. what is TTL Time to live  value of windows?
+q.FTP AND UDP  </br>
+q.What is example of udp </br>
+q. 3 way handshaking protocols </br> 
+q. what is TTL Time to live  value of windows?  </br>
 
 q. classes in network?  
 q.what is private IP add and public ip address?
