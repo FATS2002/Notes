@@ -47,11 +47,11 @@ nmap.org [fulldocumentation]
 ---
 
 
-|     questions                                            | Impt                                          |  
+|     questions                                            | Important                |  
 |---------------------------------------------------------|------------------------------------------------|
 |1. 7 layers OSI                                          |                                                |
-|2. TCP/UDP                                               |To be updated                                   |
-|3. Tcp header                                             |                                                | 
+|2. TCP/UDP                                               |To be updated  later                            |
+|3. Tcp header                                            |                                                | 
 |4. TCP classification                                     |                                                |  
 |5. subnetting                                             |                                                 |
 |6.routers / switches                                     |                                                 |
@@ -59,7 +59,7 @@ nmap.org [fulldocumentation]
 |8.Private key & Public key                               |                                                 |
 
 
-|9.HTTP& HTTPS                                            |                                                 |
+|9.HTTP& HTTPS                                            |      Important                                  |
 |---------------------------------------------------------|-------------------------------------------------|
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
