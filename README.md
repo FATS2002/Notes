@@ -60,14 +60,14 @@ nmap.org [fulldocumentation]
 
 
 |9.HTTP& HTTPS                                            |                                                 |
-|===========|------------------|
+|---------------------------------------------------------|-------------------------------------------------|
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
-|12.Encryption and Hashing and  decryption           |                                                 |
+|12.Encryption and Hashing and  decryption                |                                                 |
 |13. FTP &UDP                                             |                                                 |
 |14.What are protocols.                                   |                                                 |
 |15.What is example of udp                                |                                                 | 
-|16.  what is nmap?                                       |                                                     |
+|16.  what is nmap?                                       |                                                 |
 |17.what is TTL Time to live  value of windows            |                                                     |
 |4. classes in network                                   |                                                     |
 
