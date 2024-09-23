@@ -44,8 +44,8 @@ nmap.org [fulldocumentation]
 |---------------------------------------------------------|-----------------------------------------------------|
 |1. 7 Layers  Of OSI                                      |                                                     |                  
 |2. FTP AND UDP                                           |To be updated                                        |
-|3. what is private IP add and </br>
-        public ip address?         |                                                     | 
+|3. what is private IP add and </br>                      |                                                     |
+|        public ip address?                               |                                                     | 
 |3.  what is nmap? </br>                                  |                                                     |
 |what is TTL Time to live  value of windows?              |                                                     |
 |4. classes in network?                                   |                                                     |
