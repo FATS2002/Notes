@@ -40,26 +40,21 @@ nmap.org [fulldocumentation]
 
 
 
-|questiona                                         | sites                                               |  
+|Linux                                           | commands                                            |  
 |---------------------------------------------------------|-----------------------------------------------------|
-|1. 7 Layers of OSI                                      |                                                     |                  
-|2. FTP and UDP                                           |To be updated                                        |
-|3. what is private IP add                    |                                                     |
-|        public ip address?                               |                                                     | 
-|3.  what is nmap?                                   |                                                     |
-|what is TTL Time to live  value of windows              |                                                     |
+|                                                          |                                                     |                  
 |4. classes in network                                   |                                                     |
 |5.FTP AND UDP                                           |                                                     |
-| 6.What is example of udp                                |                                                     | 
-|7. what are protocols?  FTP UDP                          |                                                     |
-|8.                                                       |                                                     |
 
-|                                                         | commands                                            |  
-|---------------------------------------------------------|-----------------------------------------------------|
-|1. 7 layers OSI                                          |                                                     |
-|2. TCP/UDP                                               |to be updated                                        |
-|3.Tcp header                                             |                                                     | 
-|4.TCP classaification                                    |                                                     |  
+---
+
+
+|     questions                                            | Impt                                          |  
+|---------------------------------------------------------|------------------------------------------------|
+|1. 7 layers OSI                                          |                                                |
+|2. TCP/UDP                                               |To be updated                                   |
+|3.Tcp header                                             |                                                | 
+|4.TCP classification                                     |                                                |  
 |5.subnetting                                             |                                                 |
 |6.routers / switches                                     |                                                 |
 |7. 3 way handshaking                                     |                                                 | 
@@ -68,8 +63,11 @@ nmap.org [fulldocumentation]
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
 |12.Encryption and Hashing and </br> decryption           |                                                 |
-
-
+|13. FTP &UDP                                             |                                                 |
+|14.What are protocols.                                   |                                                 |
+|15.What is example of udp                                |                                                 | 
+|16.  what is nmap?                                      |                                                     |
+|17.what is TTL Time to live  value of windows              |                                                     |
 
 archive.org->go to way back machine
 
