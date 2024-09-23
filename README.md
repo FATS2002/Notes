@@ -41,10 +41,9 @@ nmap.org [fulldocumentation]
 
 
 |Linux                                           | commands                                            |  
-|---------------------------------------------------------|-----------------------------------------------------|
-|                                                          |                                                     |                  
+|---------------------------------------------------------|-----------------------------------------------------|              
 |4. classes in network                                   |                                                     |
-|5.FTP AND UDP                                           |                                                     |
+
 
 ---
 
@@ -66,8 +65,8 @@ nmap.org [fulldocumentation]
 |13. FTP &UDP                                             |                                                 |
 |14.What are protocols.                                   |                                                 |
 |15.What is example of udp                                |                                                 | 
-|16.  what is nmap?                                      |                                                     |
-|17.what is TTL Time to live  value of windows              |                                                     |
+|16.  what is nmap?                                       |                                                     |
+|17.what is TTL Time to live  value of windows            |                                                     |
 
 archive.org->go to way back machine
 
