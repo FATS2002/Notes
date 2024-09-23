@@ -42,16 +42,16 @@ nmap.org [fulldocumentation]
 
 |questiona                                         | sites                                               |  
 |---------------------------------------------------------|-----------------------------------------------------|
-|1. 7 Layers  Of OSI                                      |                                                     |                  
-|2. FTP AND UDP                                           |To be updated                                        |
-|3. what is private IP add and </br>                      |                                                     |
+|1. 7 Layers of OSI                                      |                                                     |                  
+|2. FTP and UDP                                           |To be updated                                        |
+|3. what is private IP add                    |                                                     |
 |        public ip address?                               |                                                     | 
-|3.  what is nmap? </br>                                  |                                                     |
-|what is TTL Time to live  value of windows?              |                                                     |
-|4. classes in network?                                   |                                                     |
-|5.FTP AND UDP  </br>                                     |                                                     |
-| 6.What is example of udp </br>                          |                                                     | 
-|7. what are protocols?  FTP UDP   </br>                  |                                                     |
+|3.  what is nmap?                                   |                                                     |
+|what is TTL Time to live  value of windows              |                                                     |
+|4. classes in network                                   |                                                     |
+|5.FTP AND UDP                                           |                                                     |
+| 6.What is example of udp                                |                                                     | 
+|7. what are protocols?  FTP UDP                          |                                                     |
 |8.                                                       |                                                     |
 
 |                                                         | commands                                            |  
