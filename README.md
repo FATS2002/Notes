@@ -52,9 +52,9 @@ nmap.org [fulldocumentation]
 |---------------------------------------------------------|------------------------------------------------|
 |1. 7 layers OSI                                          |                                                |
 |2. TCP/UDP                                               |To be updated                                   |
-|3.Tcp header                                             |                                                | 
-|4.TCP classification                                     |                                                |  
-|5.subnetting                                             |                                                 |
+|3. Tcp header                                             |                                                | 
+|4. TCP classification                                     |                                                |  
+|5. subnetting                                             |                                                 |
 |6.routers / switches                                     |                                                 |
 |7. 3 way handshaking                                     |                                                 | 
 |8.Private key & Public key                               |                                                 |
