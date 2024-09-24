@@ -27,7 +27,7 @@ archive.org->go to way back machine
 
 |   sites                                   | Notes                                               |  
 |-------------------------------------------|-----------------------------------------------------|              
-|nmap.org [fulldocumentation]               |                                                     |
+|nmap.org                                   |Full definitions                                                  |
 |nmap.org                                   | for nw scanning[nw mapper]                          |
 |showden.io                                 |                                                     |
 |buzzsome                                   |                                                     |
