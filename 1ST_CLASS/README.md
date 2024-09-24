@@ -1,4 +1,4 @@
-## 1_class Notes
+## 1_classNotes
 
 sherlock: vast no of n/w sites
 
