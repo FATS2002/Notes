@@ -33,7 +33,7 @@ archive.org->go to way back machine
 |buzzsome                                   |                                                     |
 |Email foot printing:-                      |                                                     |
 |-securitytrails.com                        |                                                     |      
-|-www.certifiedhacker.com                   |                                                     |
+|-certifiedhacker.com                   |                                                     |
 |- virusTotal                               |                                                     |
 | - pentesttools.com                        |                                                     |
 |Footprinting tools:                        |                                                     |
