@@ -82,6 +82,7 @@ Terminal                   [nmap google.com]
 # Ports
 
 
+
 <img src="https://github.com/user-attachments/assets/raw/673e1c4a-57ce-4a96-ac0d-f2826c2ebfe2" alt="Description" width="300" height="200" />
 
 
