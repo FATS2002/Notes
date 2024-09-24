@@ -81,6 +81,7 @@ Terminal                   [nmap google.com]
 
 # Ports
 
+
 ![image](https://github.com/user-attachments/assets/673e1c4a-57ce-4a96-ac0d-f2826c2ebfe2)
 
 
