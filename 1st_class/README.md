@@ -8,13 +8,7 @@ sherlock: vast no of network sites
 3. sherlock billgate
 
 
-Footprinting tools:
-archive.org->go to way back machine
 
-Email foot printing:-securitytrails.com
-                  :-www.certifiedhacker.com
-                           site:-virusTotal
-                                 - pentesttools.com
 q. 3 types scanning : [closed ports and open ports]
 
 q. what are protocols?  FTP UDP   </br>
@@ -23,25 +17,27 @@ vulnerability scanning  </br>
 
 
 
-q. 3 way handshaking protocols </br> 
-q. what is TTL Time to live  value of windows?  </br>
-
-
-||
-site :-  nmap.org   for nw scanning[nw mapper]
-
-
 get mac address of windows :- [command - getmac]  </br>
+Footprinting tools:
+archive.org->go to way back machine
 
 
-nmap.org [fulldocumentation]
+                           
 
 
-
-|  # sites                                       | commands                                            |  
-|----------------------------------------------|-----------------------------------------------------|              
-|            get n   | |
-
+|   sites                                   | Notes                                               |  
+|-------------------------------------------|-----------------------------------------------------|              
+|nmap.org [fulldocumentation]               |                                                     |
+|nmap.org                                   | for nw scanning[nw mapper]                          |
+|showden.io                                 |                                                     |
+|buzzsome                                   |                                                     |
+|Email foot printing:-                      |                                                     |
+|-securitytrails.com                        |                                                     |      
+|-www.certifiedhacker.com                   |                                                     |
+|- virusTotal                               |                                                     |
+| - pentesttools.com                        |                                                     |
+|Footprinting tools:                        |                                                     |
+|archive.org->go to way back machine        |                                                     |
 
 ---
 
@@ -70,10 +66,10 @@ nmap.org [fulldocumentation]
 archive.org->go to way back machine
 
 
-Terminal                   [nmap google.com]
+### Terminal      
+[nmap google.com]
 
-[showden.io]
-[buzzsome]
+
 
 ### Ports
 
