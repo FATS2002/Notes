@@ -60,7 +60,6 @@ nmap.org [fulldocumentation]
 
 
 |9.HTTP& HTTPS                                            |      Important                                  |
-|---------------------------------------------------------|-------------------------------------------------|
 |10. IPv4 and  IPv6                                       |                                                 |
 |11.private IP and public IP                              |                                                 |
 |12.Encryption and Hashing                |                                                 |
