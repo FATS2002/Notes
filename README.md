@@ -1,7 +1,7 @@
 # Notes
 
-1. 1ST_CLASS
-2. 2ND_CLASS
+1. 1st_Class
+2. 2nd_Class
 
 
 
