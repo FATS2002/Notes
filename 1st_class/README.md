@@ -42,7 +42,7 @@ archive.org->go to way back machine
 ---
 
 
-|     questions                                            | Important                |  
+|  <h4>questions</h4>                                        | Important                |  
 |---------------------------------------------------------|------------------------------------------------|
 |1. 7 layers OSI                                          |                                                |
 |2. TCP/UDP                                               |To be updated  later                            |
