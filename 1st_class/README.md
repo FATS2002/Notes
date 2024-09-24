@@ -1,8 +1,8 @@
 ### 1_classNotes
 
-sherlock: vast no of n/w sites
+sherlock: vast no of network sites
 
-command-
+#### commands-
 1. sudo apt install sherlock
 2. sherlock -h
 3. sherlock billgate
