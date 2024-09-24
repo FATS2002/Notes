@@ -9,11 +9,10 @@ sherlock: vast no of network sites
 
 
 Footprinting tools:
-
 archive.org->go to way back machine
 
 Email foot printing:-securitytrails.com
-                             :-www.certifiedhacker.com
+                  :-www.certifiedhacker.com
                            site:-virusTotal
                                  - pentesttools.com
 q. 3 types scanning : [closed ports and open ports]
@@ -41,7 +40,7 @@ nmap.org [fulldocumentation]
 
 |Linux                                           | commands                                            |  
 |---------------------------------------------------------|-----------------------------------------------------|              
-|            get n   ||
+|            get n   | |
 
 
 ---
