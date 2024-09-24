@@ -83,7 +83,7 @@ Terminal                   [nmap google.com]
 
 
 
-<img src="Images/WhatsApp Image 2024-09-24 at 9.03.11 AM.jpeg" alt="Description" width="300" height="200" />
+<img src= "Images/WhatsApp Image 2024-09-24 at 9.03.11 AM.jpeg" alt="Description" width="300" height="200" />
 
 
 
