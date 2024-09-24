@@ -83,7 +83,7 @@ Terminal                   [nmap google.com]
 
 
 
-<img src="https://github.com/user-attachments/assets/raw/673e1c4a-57ce-4a96-ac0d-f2826c2ebfe2" alt="Description" width="300" height="200" />
+<img src="Images/WhatsApp Image 2024-09-24 at 9.03.11 AM.jpeg" alt="Description" width="300" height="200" />
 
 
 
