@@ -15,7 +15,6 @@
 13. what are portNos
 14. Transport and nw Layer Important -datalink and physical Layer dont have any ports
 
----
 
 #### cmds
 1. write cmds to operate Normal windows.
@@ -41,5 +40,5 @@
 21. FTP & FTPS-FTP secure or not
 
 
-
-#### https://github.com/microsoft/Security-101
+#### Links 
+https://github.com/microsoft/Security-101
