@@ -26,8 +26,6 @@
 - **Move File:** `move [source] [destination]`
 - **Delete File:** `del [file_name]`
 
-
-#### 2. Getting IP Address and Network Commands
 - **Get IP Address:** 
   ```bash
   ipconfig
@@ -38,21 +36,27 @@
 5. basic linuxCommands
 6. what is linux and How many types of operatingsystem
 7. what is virtualization
+
 8. what is virtualMachine.why we use vm
-9. what is HTTP and HTTPS.
-10. what is SSH and telnet.  portNo 22 & 23
-11. what is VLAN and VPN
-12. fullform of SMTP & portNo
-13. portNo of HTTP & DHCP
-14. VNC &NTP portNo
-15. FTP control portNo.
-16. SMP portNo
-17. NTPA. 389
-18. what is protocol .How many protocols
-19. IMAP portNo
-20. SMTP portNo
-21. SMTPS portNo
-22. FTP & FTPS-FTP secure or not
+A Virtual Machine  is a software emulation of a physical computer. It runs an operating system & apps just like a physical machine.
+
+10. what is HTTP and HTTPS.
+11. what is SSH and telnet.  
+SSH (Secure Shell): A protocol for secure remote login and other secure network services over an insecure network. Port Number: 22.
+Telnet: A protocol for remote login that is not secure. It sends data in plain text. Port Number: 23.
+
+13. what is VLAN and VPN
+14. fullform of SMTP & portNo
+15. portNo of HTTP & DHCP
+16. VNC &NTP portNo
+17. FTP control portNo.
+18. SMP portNo
+19. NTPA. 389
+20. what is protocol .How many protocols
+21. IMAP portNo
+22. SMTP portNo
+23. SMTPS portNo
+24. FTP & FTPS-FTP secure or not
 
 
 #### Links 
