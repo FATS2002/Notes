@@ -1,3 +1,7 @@
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 #### Notes
 
 1. what is Tcp.
