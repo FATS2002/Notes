@@ -15,6 +15,8 @@
 13. what are portNos
 14. Transport and nw Layer Important -datalink and physical Layer dont have any ports
 
+---
+
 #### cmds
 1. write cmds to operate Normal windows.
 2. -How to get IP address of windows- Ping cmds -nsLookup cmds
