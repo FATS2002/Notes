@@ -18,26 +18,44 @@
 
 #### cmds
 1. write cmds to operate Normal windows.
-2. -How to get IP address of windows- Ping cmds -nsLookup cmds
-3. what is dns.
-4. basic linuxCommands
-5. what is linux and How many types of operatingsystem
-6. what is virtualization
-7. what is virtualMachine.why we use vm
-8. what is HTTP and HTTPS.
-9. what is SSH and telnet.  portNo 22 & 23
-10. what is VLAN and VPN
-11. fullform of SMTP & portNo
-12. portNo of HTTP & DHCP
-13. VNC &NTP portNo
-14. FTP control portNo.
-15. SMP portNo
-16. NTPA. 389
-17. what is protocol .How many protocols
-18. IMAP portNo
-19. SMTP portNo
-20. SMTPS portNo
-21. FTP & FTPS-FTP secure or not
+# Networking and Operating System Commands Overview
+
+## 1. Windows Commands for Basic Operations
+- **Open Command Prompt:** `cmd`
+- **List Directory:** `dir`
+- **Change Directory:** `cd [directory_name]`
+- **Copy File:** `copy [source] [destination]`
+- **Move File:** `move [source] [destination]`
+- **Delete File:** `del [file_name]`
+
+---
+
+## 2. Getting IP Address and Network Commands
+- **Get IP Address:** 
+  ```bash
+  ipconfig
+
+2. 
+3. -How to get IP address of windows- Ping cmds -nsLookup cmds
+4. what is dns.
+5. basic linuxCommands
+6. what is linux and How many types of operatingsystem
+7. what is virtualization
+8. what is virtualMachine.why we use vm
+9. what is HTTP and HTTPS.
+10. what is SSH and telnet.  portNo 22 & 23
+11. what is VLAN and VPN
+12. fullform of SMTP & portNo
+13. portNo of HTTP & DHCP
+14. VNC &NTP portNo
+15. FTP control portNo.
+16. SMP portNo
+17. NTPA. 389
+18. what is protocol .How many protocols
+19. IMAP portNo
+20. SMTP portNo
+21. SMTPS portNo
+22. FTP & FTPS-FTP secure or not
 
 
 #### Links 
