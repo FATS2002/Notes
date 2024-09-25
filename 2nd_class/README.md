@@ -1,5 +1,3 @@
-
-> [NOTE]
 > content.
 
 #### Notes
