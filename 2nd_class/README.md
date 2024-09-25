@@ -54,15 +54,15 @@ Telnet: A protocol for remote login that is not secure. It sends data in plain t
 19. NTPA. 389  .  **NTP (Network Time Protocol)**: Port 123 , **LDAP**: Port 389
 20. what is protocol .How many protocols
     A protocol is a set of rules governing the exchange or transmission of data over a network. There are numerous protocols, each serving different purposes:
-- **HTTP/HTTPS**: For web browsing.
-- **FTP/SFTP**: For file transfers.
-- **SMTP/IMAP/POP3**: For email.
-- **DNS**: For domain name resolution.
-- **DHCP**: For dynamic IP address assignment.
-- **SSH/Telnet**: For remote access.
-- **NTP**: For time synchronization.
-- **VPN**: For secure remote access.
-- **VLAN**: For network segmentation
+- HTTP/HTTPS: For web browsing.
+- FTP/SFTP: For file transfers.
+- SMTP/IMAP/POP3: For email.
+- DNS: For domain name resolution.
+- DHCP: For dynamic IP address assignment.
+- SSH/Telnet: For remote access.
+- NTP: For time synchronization.
+- VPN: For secure remote access.
+- VLAN: For network segmentation
 - 
 22. IMAP portNo   port -143
 23. SMTP portNo.  port  -25
