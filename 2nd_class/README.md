@@ -15,7 +15,7 @@
 13. what are portNumbers
 14. Transport and network Layer Important -datalink and physical Layer dony have any ports
 
-####cmds
+#### cmds
 1. write cmds to operate Normal windows. -How to get IP address of windows- Ping cmds -nsLookup cmds
 2. what is dns.
 3. basic linuxCommands
