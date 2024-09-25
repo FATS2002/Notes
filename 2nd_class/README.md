@@ -1,6 +1,6 @@
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [NOTE]
+> content.
 
 #### Notes
 
