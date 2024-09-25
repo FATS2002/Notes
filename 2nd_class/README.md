@@ -18,9 +18,7 @@
 
 #### cmds
 1. write cmds to operate Normal windows.
-# Networking and Operating System Commands Overview
-
-## 1. Windows Commands for Basic Operations
+####  1. Windows Commands for Basic Operations
 - **Open Command Prompt:** `cmd`
 - **List Directory:** `dir`
 - **Change Directory:** `cd [directory_name]`
@@ -28,9 +26,8 @@
 - **Move File:** `move [source] [destination]`
 - **Delete File:** `del [file_name]`
 
----
 
-## 2. Getting IP Address and Network Commands
+#### 2. Getting IP Address and Network Commands
 - **Get IP Address:** 
   ```bash
   ipconfig
