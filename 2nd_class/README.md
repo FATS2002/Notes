@@ -1,9 +1,10 @@
 #### Notes
 
-#### what is Tcp.
-#### what is Protocol and Its Types
-
-#### Tcp/IP model and header [Tcp header]
+1. what is Tcp.
+2. what is Protocol and Its Types
+3.TCP/IP model and header [Tcp header]  -TCP segnent structure
+4. Define TCP and UDP.
+5. 
 
 
 
