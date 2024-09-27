@@ -1,9 +1,7 @@
 #### Notes  25-09
 
 # Networking Concepts
-#### 1. what is Tcp.
-#### 2. what is Protocol and Its Types
-#### 3.TCP/IP model and header [Tcp header]  -TCP segment structure
+1. what is Tcp.2.what is Protocol and Its Types  3.TCP/IP model and header [Tcp header]  -TCP segment structure
 #### 4. Define TCP and UDP.diff  btw TCP and UDP with ex for each.
 #### 5. portNames and portNo's.
 #### 6. IP classification
