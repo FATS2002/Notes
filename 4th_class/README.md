@@ -1,5 +1,6 @@
 #### Notes   27-09
 
 >##### Linux commands
->##### https://www.interviewbit.com/networking-interview-questions/
->
+
+##### Links
+##### https://www.interviewbit.com/networking-interview-questions/
