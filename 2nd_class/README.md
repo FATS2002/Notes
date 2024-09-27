@@ -3,7 +3,9 @@
 # Networking Concepts
 1. what is Tcp.
    what is Protocol and Its Types
-   TCP/IP model and header [Tcp header]  -TCP segment structure4. Define TCP and UDP.diff  btw TCP and UDP with ex for each.5. portNames and portNo's.
+   TCP/IP model and header [Tcp header]  -TCP segment structure
+   Define TCP and UDP.diff  btw TCP and UDP with ex for each
+   portNames and portNo's.
 #### 6. IP classification
 #### 7. OSI Layer and definitions
 ####  8. Transport Layer Ports
