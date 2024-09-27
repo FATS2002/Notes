@@ -1,8 +1,8 @@
-### 1_classNotes
+##### 1_classNotes
 
 sherlock: vast no of network sites
 
-#### commands-
+##### commands-
 1. sudo apt install sherlock
 2. sherlock -h
 3. sherlock billgate
@@ -66,12 +66,12 @@ archive.org->go to way back machine
 archive.org->go to way back machine
 
 
-### Terminal      
+##### Terminal      
 [nmap google.com]
 
 
 
-### Ports
+##### Ports
 
 
 
