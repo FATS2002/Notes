@@ -43,3 +43,5 @@ activeExamples:- MITM -Man in the Middle
 2. scanning
 3. enumeration
 4. vulnerabily analysis
+
+Listing in linux-  ls -a 
