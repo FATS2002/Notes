@@ -22,11 +22,11 @@
 ##### what are protocols and Ports
 
 Elements of information security?
-confidentiality
-Intergrity
-availablibity
-authenticity
-Non-repudiation
+- confidentiality
+- Intergrity
+- availablibity
+- authenticity
+- Non-repudiation
 
 #### classificaiton of Attacks:-
 passive and active attacks
