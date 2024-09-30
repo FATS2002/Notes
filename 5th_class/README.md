@@ -20,3 +20,19 @@
 ##### what is applicationSecurity .what is InformationSecurity
 #### what is dissolve DNS  nslookup command
 ##### what are protocols and Ports
+
+Elements of information security?
+confidentiality
+Intergrity
+availablibity
+authenticity
+Non-repudiation
+
+#### classificaiton of Attacks:-
+passive and active attacks
+passiveExamples:- sniffing, vishing </br>
+
+activeExamples:- MITM -Man in the Middle
+              :-close-in Attacks-These attacks are performed in the proximity level. T
+
+
