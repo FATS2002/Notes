@@ -1,7 +1,9 @@
  >  Notes  30-09
 
->  go to Root user
-   ##### sudo -i  or sudo su
+---
+
+go to Root user
+ sudo -i  or sudo su
 
 #####  Make a directory 
    ##### mkdir notes
