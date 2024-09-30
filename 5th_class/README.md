@@ -9,7 +9,7 @@
 #####  go to 'notes'  directory
   cd notes
 
-4.change NAT TO BRIDGE in VM ware settings
+#### change NAT TO BRIDGE in VM ware settings
 
 ##### what is kali linux
 it is debain operating system that is used for advanced penetration and security auditing  
