@@ -1,20 +1,16 @@
 ##### Notes  30-09
 
-1. go to Root user
+##### > go to Root user
    sudo -i  or sudo su
-2. Make a directory 
+
+##### > Make a directory 
    mkdir notes
-3. go to directory
 
+##### > go to 'notes'  directory
+  cd notes
 
-# Switch to the root user
-sudo -i  # or
-sudo su
+4.change NAT TO BRIDGE in VM ware settings
 
-# Make a directory named 'notes'
-mkdir notes
-
-# Change to the 'notes' directory
-cd notes
-
+##### what is kali linux
+it is debain operating system that is used for advanced penetration and security auditing  
 
