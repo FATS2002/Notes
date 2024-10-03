@@ -47,3 +47,6 @@ activeExamples:- MITM -Man in the Middle
 4. vulnerabily analysis
 
 Listing in linux-  ls -a 
+
+![image](https://github.com/user-attachments/assets/2bfdf185-4315-48c3-b46c-8532ff0dbf1c)
+
