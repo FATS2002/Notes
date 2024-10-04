@@ -50,3 +50,7 @@ Listing in linux-  ls -a
 
 ![image](https://github.com/user-attachments/assets/2bfdf185-4315-48c3-b46c-8532ff0dbf1c)
 
+
+![image](https://github.com/user-attachments/assets/94d9addb-c054-4059-bfc7-1dad04204390)
+
+
