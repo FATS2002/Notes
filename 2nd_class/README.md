@@ -1,20 +1,22 @@
 #### Notes  25-09
 
 # Networking Concepts
+```
 1. what is Tcp.
-   what is Protocol and Its Types
-   TCP/IP model and header [Tcp header]  -TCP segment structure
-   Define TCP and UDP.diff  btw TCP and UDP with ex for each
-   portNames and portNo's.
-#### 6. IP classification
-#### 7. OSI Layer and definitions
-####  8. Transport Layer Ports
+2. what is Protocol and Its Types
+3. TCP/IP model and header [Tcp header]  -TCP segment structure
+4. Define TCP and UDP.diff  btw TCP and UDP with ex for each portNames and portNo's.
+6. IP classification
+7. OSI Layer and definitions
+8. Transport Layer Ports
 9. Which ports ll come under which Layer -router ll come under which Layer
 10. diff bw routers and switches.
 11. what is mac address.How to get Mac address & which cmd is used to get Mac address.
 12. what presentationLayer ll do and what session Layer ll do.
 13. what are portNos
 14. Transport and nw Layer Important -datalink and physical Layer dont have any ports
+
+```
 
 
 #### cmds
