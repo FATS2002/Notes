@@ -27,8 +27,9 @@ it is debain operating system that is used for advanced penetration and security
 
 ```
 
-q. The IP address 127.0. 0.1 is called a loopback address. Packets sent to this address never reach the network but are looped through  the network interface card only.
-This can be used for diagnostic purposes to verify that the internal path through the TCP/IP protocols is working.
+q. The IP address 127.0. 0.1 is called a loopback address. Packets sent to this address never reach the network
+but are looped through  the network interface card only.This can be used for diagnostic purposes to verify that
+the internal path through the TCP/IP protocols is working.
 q. Types of security and what is cybersecurity
 q. what is applicationSecurity .what is InformationSecurity
 q. what is dissolve DNS. nslookup command
