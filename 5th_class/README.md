@@ -26,12 +26,13 @@ cd notes
 
 ```
 
-The IP address 127.0. 0.1 is called a loopback address. Packets sent to this address never reach the network but are looped through  the network interface card only. This can be used for diagnostic purposes to verify that the internal path through the TCP/IP protocols is working.
-Types of security and what is cybersecurity
-what is applicationSecurity .what is InformationSecurity
-what is dissolve DNS. nslookup command
-what are protocols and Ports
-typesof security. & classification
+q. The IP address 127.0. 0.1 is called a loopback address. Packets sent to this address never reach the network but are looped through  the network interface card only.
+This can be used for diagnostic purposes to verify that the internal path through the TCP/IP protocols is working.
+q. Types of security and what is cybersecurity
+q. what is applicationSecurity .what is InformationSecurity
+q. what is dissolve DNS. nslookup command
+q. what are protocols and Ports
+q. typesof security. & classification
 
 ```
 
