@@ -1,6 +1,6 @@
 #### Notes  25-09
 
-# Networking Concepts
+##### Networking Concepts
 ```
 1. what is Tcp.
 2. what is Protocol and Its Types
@@ -20,26 +20,29 @@
 
 
 #### cmds
+```
 1. write cmds to operate Normal windows.
+```
 ####  1. Windows Commands for Basic Operations
+
+```
 - **Open Command Prompt:** `cmd`
 - **List Directory:** dir
 - **Change Directory:** `cd [directory_name]`
 - **Copy File:** `copy [source] [destination]`
 - **Move File:** `move [source] [destination]`
 - **Delete File:** `del [file_name]`
-
 - **Get IP Address:** 
-  ```bash
+  bash
   ipconfig
 
-2. 
+```
+ 
 3. -How to get IP address of windows- Ping cmds -nsLookup cmds
 4. what is dns.
 5. basic linuxCommands
 6. what is linux and How many types of operatingsystem
 7. what is virtualization
-
 8. what is virtualMachine.why we use vm
 A Virtual Machine  is a software emulation of a physical computer. It runs an operating system & apps just like a physical machine.
 
@@ -55,8 +58,11 @@ Telnet: A protocol for remote login that is not secure. It sends data in plain t
 17. FTP control portNo.
 18. SMP portNo
 19. NTPA. 389  .  **NTP (Network Time Protocol)**: Port 123 , **LDAP**: Port 389
-20. what is protocol .How many protocols
-    A protocol is a set of rules governing the exchange or transmission of data over a network. There are numerous protocols, each serving different purposes:
+
+```
+21. what is protocol .How many protocols
+    A protocol is a set of rules governing the exchange or transmission of data over a network.
+    There are numerous protocols, each serving different purposes:
 - HTTP/HTTPS: For web browsing.
 - FTP/SFTP: For file transfers.
 - SMTP/IMAP/POP3: For email.
@@ -66,11 +72,12 @@ Telnet: A protocol for remote login that is not secure. It sends data in plain t
 - NTP: For time synchronization.
 - VPN: For secure remote access.
 - VLAN: For network segmentation
-- 
+  
 22. IMAP portNo   port -143
 23. SMTP portNo.  port  -25
 24. SMTPS portNo. port -465
 25. FTP & FTPS-FTP secure or not
+```
 
 
 #### Links 
