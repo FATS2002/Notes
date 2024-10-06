@@ -28,15 +28,13 @@ write cmds to operate Normal windows.
 ####  1. Windows Commands for Basic Operations
 
 ```
-- Open Command Prompt: `cmd`
-- List Directory:  dir
-- Change Directory: `cd [directory_name]`
-- Copy File: `copy [source] [destination]`
-- Move File: `move [source] [destination]`
-- Delete File: `del [file_name]`
-- Get IP Address: 
-  bash
-  ipconfig
+- Open Command Prompt: cmd
+- List Directory:      dir
+- Change Directory:    cd [directory_name]
+- Copy File:           copy [source] [destination]
+- Move File:           move [source] [destination]
+- Delete File:         del [file_name]
+- Get IP Address:      bash ipconfig
 
 ```
 ``` 
