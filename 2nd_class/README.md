@@ -62,7 +62,7 @@ Telnet: A protocol for remote login that is not secure. It sends data in plain t
 16. VNC &NTP portNo
 17. FTP control portNo.
 18. SMP portNo
-19. NTPA. 389  .  **NTP (Network Time Protocol)**: Port 123 , **LDAP**: Port 389
+19. NTPA. 389  .  NTP (Network Time Protocol): Port 123 , LDAP: Port 389
 
 ```
 
