@@ -2,15 +2,16 @@
 
 ---
 
-
 ##### go to Root user
- - sudo -i  or sudo su
+```
+sudo -i  or sudo su
+```
+
 #####  Make a directory 
 
 ```
 mkdir notes
 ```
-
 
 #####  go to 'notes'  directory
 ```
