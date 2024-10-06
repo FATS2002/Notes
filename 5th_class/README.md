@@ -1,29 +1,28 @@
  >  Notes  30-09
 
 ---
-
 ##### go to Root user
 ```
 sudo -i  or sudo su
 ```
-
 #####  Make a directory 
-
 ```
 mkdir notes
 ```
-
 #####  go to 'notes'  directory
 ```
 cd notes
 ```
-
-#### change NAT TO BRIDGE in vmware settings
+##### change NAT TO BRIDGE in vmware settings
+```
+Nat to bridge
+```
 
 
 ##### what is kali linux
 
-``` it is debain operating system that is used for advanced penetration and security auditing  ```
+``` it is debain operating system that is used for advanced penetration and security auditing  
+```
 
 ```
 
