@@ -1,12 +1,12 @@
 ### Notes
 ```
-1. 1_class
-2. 2_class
-3. 3_class
-4. 4_class
-5. 5_class
-6. 6_class
-7. 7_class
+1. 1st class
+2. 2nd class
+3. 3rd class
+4. 4th class
+5. 5th class
+6. 6th class
+7. 7th class
 ```
 
 
