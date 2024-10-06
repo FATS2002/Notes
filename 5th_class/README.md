@@ -13,12 +13,16 @@
 
 
 #####  go to 'notes'  directory
-- cd notes
+```
+cd notes
+
+```
 
 #### change NAT TO BRIDGE in vmware settings
 
 
 ##### what is kali linux
+
 ##### it is debain operating system that is used for advanced penetration and security auditing  
 
 
