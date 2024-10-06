@@ -48,8 +48,11 @@ A Virtual Machine  is a software emulation of a physical computer. It runs an op
 
 10. what is HTTP and HTTPS.
 11. what is SSH and telnet.  
-SSH (Secure Shell): A protocol for secure remote login and other secure network services over an insecure network. Port Number: 22.
-Telnet: A protocol for remote login that is not secure. It sends data in plain text. Port Number: 23.
+SSH (Secure Shell): A protocol for secure remote login and other secure network services over an insecure network.
+Port Number: 22.
+
+Telnet: A protocol for remote login that is not secure. It sends data in plain text.
+ Port Number: 23.
 
 13. what is VLAN and VPN
 14. fullform of SMTP & portNo
