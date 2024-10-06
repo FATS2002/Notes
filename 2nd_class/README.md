@@ -44,7 +44,8 @@ write cmds to operate Normal windows.
 6. what is linux and How many types of operatingsystem
 7. what is virtualization
 8. what is virtualMachine.why we use vm
-A Virtual Machine  is a software emulation of a physical computer. It runs an operating system & apps just like a physical machine.
+A Virtual Machine  is a software emulation of a physical computer. It runs an operating system & apps just like a
+physical machine.
 
 10. what is HTTP and HTTPS.
 11. what is SSH and telnet.  
