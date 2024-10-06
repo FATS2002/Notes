@@ -37,7 +37,7 @@
   ipconfig
 
 ```
- 
+``` 
 3. -How to get IP address of windows- Ping cmds -nsLookup cmds
 4. what is dns.
 5. basic linuxCommands
@@ -58,6 +58,8 @@ Telnet: A protocol for remote login that is not secure. It sends data in plain t
 17. FTP control portNo.
 18. SMP portNo
 19. NTPA. 389  .  **NTP (Network Time Protocol)**: Port 123 , **LDAP**: Port 389
+
+```
 
 ```
 21. what is protocol .How many protocols
