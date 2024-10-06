@@ -37,11 +37,14 @@ q. typesof security. & classification
 ```
 
 ##### Elements of information security?
+```
 - confidentiality
 - Intergrity
 - availablibity
 - authenticity
 - Non-repudiation
+```
+
 
 #### classificaiton of Attacks:-
 passive and active attacks
