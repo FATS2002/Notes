@@ -6,7 +6,11 @@
 ##### go to Root user
  - sudo -i  or sudo su
 #####  Make a directory 
-- mkdir notes
+
+```
+ - mkdir notes
+```
+
 
 #####  go to 'notes'  directory
 - cd notes
