@@ -21,7 +21,8 @@ Nat to bridge
 
 ##### what is kali linux
 
-``` it is debain operating system that is used for advanced penetration and security auditing  
+```
+it is debain operating system that is used for advanced penetration and security auditing  
 ```
 
 ```
