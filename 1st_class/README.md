@@ -45,12 +45,15 @@ archive.org->go to way back machine
 
    sites                                   - Notes                                               
 
-```             
-Full definitions
-``` nmap.org ```
-                                 
-|nmap.org                                   | for nw scanning[nw mapper]                          |
-|showden.io                                 |                                                     |
+        
+Full definitions and for nw scanning[nw mapper]   
+``` 
+nmap.org 
+```                                 
+
+```
+showden.io 
+```
 |buzzsome                                   |                                                     |
 |Email foot printing:-                      |                                                     |
 |-securitytrails.com                        |                                                     |      
