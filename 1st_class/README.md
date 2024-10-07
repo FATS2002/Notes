@@ -14,7 +14,7 @@ sherlock: vast no of network sites
 ```
 
 
-q. 3 types scanning : 
+Three types scanning : 
 
 ```
 closed ports and open ports
