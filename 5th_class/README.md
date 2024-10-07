@@ -132,3 +132,8 @@ chapter-NMAP scanning
 
 
 ```
+
+```
+wireshark to analyze the nw traffic
+
+```
