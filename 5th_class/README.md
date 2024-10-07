@@ -129,5 +129,6 @@ chapter-NMAP scanning
 12. nmap - o[ip]  - os detection
 13. nmap -A[ip]   aggresive detection
 
-```
 
+
+```
