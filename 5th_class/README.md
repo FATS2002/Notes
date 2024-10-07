@@ -93,6 +93,8 @@ DNS – depends on the DNS resolver (can range from 128 to 86400).
 ```
 ```
 Link: https://www.cloudflare.com/learning/ddos/glossary/internet-control-message-protocol-icmp/
+Link: nmap.org
+ defintion: closed ports, openports, 
 ```
 #### scan through whole internet network
 ```
@@ -100,7 +102,7 @@ arp.scan - to find IP address
 ```
 
 ```
-192.168.01  apart fromt this all other IPa  
+192.168.01  apart fromt this all other IP 
 we'll do ARP scan and find IP address of kali Linux
 subnetting class
 1ST   N.H.H.H
@@ -108,10 +110,15 @@ subnetting class
 3RD   N.N.N.H
 ``
 
-STEPS:
+Steps:
+
 ```
-1. ipconfig  what ever ip address you get put in arp
-2.arp.scan
+1. ificonfig  what ever ip address you get put in arp
+2.arp.scan  "arp-scan 172.20.10.2/24"
 3. fping  fping -q    /grep "is alive"
+4. nmap -network mapper
+5. check which host is up and which is down
+6. nmap[Target IP]
+7,
 ```
 
