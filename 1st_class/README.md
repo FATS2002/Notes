@@ -54,15 +54,18 @@ nmap.org
 ```
 showden.io 
 ```
-|buzzsome                                   |                                                     |
-|Email foot printing:-                      |                                                     |
-|-securitytrails.com                        |                                                     |      
-|-certifiedhacker.com                   |                                                     |
-|- virusTotal                               |                                                     |
-| - pentesttools.com                        |                                                     |
-|Footprinting tools:                        |                                                     |
-|archive.org->go to way back machine        |                                                     |
-
+``` 
+buzzsome
+```
+Email foot printing:-                      
+```
+-securitytrails.com                                                                                  
+-certifiedhacker.com                                                                    
+- virusTotal                                                                                    
+ - pentesttools.com                                                                    
+Footprinting tools:                                  
+archive.org->go to way back machine        
+```
 ---
 
 ```
