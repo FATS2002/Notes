@@ -1,26 +1,45 @@
 ##### 1_classNotes
-
+```
 sherlock: vast no of network sites
-
+```
 ##### commands-
+```
 1. sudo apt install sherlock
+```
+```
 2. sherlock -h
+```
+```
 3. sherlock billgate
+```
+
+
+q. 3 types scanning : 
+
+```
+closed ports and open ports
+```
+q. what are protocols?  
+
+```
+FTP UDP 
+```  
+```
+Network Scanning      
+vulnerability scanning  
+```
 
 
 
-q. 3 types scanning : [closed ports and open ports]
+get mac address of windows 
+```
+command - getmac  
+```
 
-q. what are protocols?  FTP UDP   </br>
-Network Scanning      </br>
-vulnerability scanning  </br>
-
-
-
-get mac address of windows :- [command - getmac]  </br>
 Footprinting tools:
+```
 archive.org->go to way back machine
-
+```
 
                            
 
