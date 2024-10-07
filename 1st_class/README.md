@@ -43,10 +43,12 @@ archive.org->go to way back machine
 
                            
 
+   sites                                   - Notes                                               
 
-|   sites                                   | Notes                                               |  
-|-------------------------------------------|-----------------------------------------------------|              
-|nmap.org                                   |Full definitions                                                  |
+```             
+Full definitions
+```nmap.org```
+                                 
 |nmap.org                                   | for nw scanning[nw mapper]                          |
 |showden.io                                 |                                                     |
 |buzzsome                                   |                                                     |
