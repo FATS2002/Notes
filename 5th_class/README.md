@@ -114,6 +114,7 @@ Steps:
 chapter-NMAP scanning
 
 ```ruby
+
 1. ificonfig  what ever ip address you get put in arp
 2.arp.scan  "arp-scan 172.20.10.2/24"
 3. fping  fping -q    /grep "is alive"
@@ -122,7 +123,7 @@ chapter-NMAP scanning
 6. nmap[Target IP]
 7. npnamp -sn  to find host is up or down
 8. nmap -su[IP]  -UDP scan
-9. install metasploit
+9. Install metasploitableTool
 10. nmap -st [IP]   TCP scan
 11. NMAP -SV [ip]   -version detection
 12. nmap - o[ip]  - os detection
