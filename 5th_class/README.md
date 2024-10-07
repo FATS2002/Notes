@@ -58,7 +58,9 @@ activeExamples:- MITM -Man in the Middle
 ```
  ##### CEH Hacking Methodology
 ```
-1. Foot printing   -technique or process where we can collecting Footprinting is an ethical hacking technique used to gather as much data as possible about a specific targeted computer system, an infrastructure and networks to identify opportunities to penetrate them. It is one of the best methods of finding vulnerabilities.
+1. Foot printing-technique or process where we can collecting Footprinting is an ethical hacking technique used to gather as much data as possible about a
+specific targeted computer system, an infrastructure and networks to identify opportunities to penetrate them. It is one of the best methods of finding
+vulnerabilities.
 2. scanning
 3. enumeration
 4. vulnerabily analysis
