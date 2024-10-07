@@ -111,13 +111,7 @@ subnetting class
 STEPS:
 ```
 1. ipconfig  what ever ip address you get put in arp
-```
-```
 2.arp.scan
-```
-```
-3. fping
-
-fping -q    /grep "is alive"
+3. fping  fping -q    /grep "is alive"
 ```
 
