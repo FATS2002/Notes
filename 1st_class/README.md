@@ -16,12 +16,10 @@ Three types scanning :
 ```
 closed ports and open ports
 ```
-q. what are protocols?  
 
+q. what are protocols?  
 ```
 FTP UDP 
-```  
-```
 Network Scanning      
 vulnerability scanning  
 ```
