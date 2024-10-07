@@ -60,39 +60,41 @@ archive.org->go to way back machine
 
 ---
 
+```
+  questions                                               Important                
 
-|  questions                                  | Important                |  
-|---------------------------------------------------------|------------------------------------------------|
-|1. 7 layers OSI                                          |                                                |
-|2. TCP/UDP                                               |To be updated  later                            |
-|3. Tcp header                                            |                                                | 
-|4. TCP classification                                     |                                                |  
-|5. subnetting                                             |                                                 |
-|6.routers / switches                                     |                                                 |
-|7. 3 way handshaking                                     |                                                 | 
-|8.Private key & Public key                               |                                                 |
-|9.HTTP& HTTPS                                            |      Important                                  |
-|10. IPv4 and  IPv6                                       |                                                 |
-|11.private IP and public IP                              |                                                 |
-|12.Encryption and Hashing                |                                                 |
-|13. FTP &UDP                                             |                                                 |
-|14.What are protocols.                                   |                                                 |
-|15.What is example of udp                                |                                                 | 
-|16.  what is nmap?                                       |                                                 |
-|17.what is TTL Time to live  value of windows            |                                                     |
-|4. classes in network                                   |                                                     |
+1. 7 layers OSI                                          
+2. TCP/UDP                                               To be updated  later                           
+3. Tcp header                                                                                             
+4. TCP classification                                                                                       
+5. subnetting                                                                                              
+6.routers / switches                                                                                      
+7. 3 way handshaking                                                                                       
+8.Private key & Public key                                                                                
+9.HTTP& HTTPS                                                  Important                                  
+10. IPv4 and  IPv6                                                                                        
+11.private IP and public IP                                                                               
+12.Encryption and Hashing                                                                 
+13. FTP &UDP                                                                                             
+14.What are protocols.                                                                                   
+15.What is example of udp                                                                                  
+16.  what is nmap?                                                                                        
+17.what is TTL Time to live  value of windows                                                                 
+4. classes in network                                                                                        
 
-archive.org->go to way back machine
+```
 
+##### Terminal     
+```
+  nmap google.com
 
-##### Terminal      
-[nmap google.com]
-
-
+```
 
 ##### Ports
 
-
+``` 
+ports
+```
 
 
 
