@@ -80,18 +80,14 @@ archive.org->go to way back machine
 15.What is example of udp                                                                                  
 16.  what is nmap?                                                                                        
 17.what is TTL Time to live  value of windows                                                                 
-4. classes in network                                                                                        
-
+18. classes in network                                                                                        
 ```
 
 ##### Terminal     
 ```
-  nmap google.com
-
+nmap google.com
 ```
-
 ##### Ports
-
 ``` 
 ports
 ```
