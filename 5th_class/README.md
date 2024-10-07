@@ -111,14 +111,22 @@ subnetting class
 ``
 
 Steps:
+chapter-NMAP scanning
 
-```
+```ruby
 1. ificonfig  what ever ip address you get put in arp
 2.arp.scan  "arp-scan 172.20.10.2/24"
 3. fping  fping -q    /grep "is alive"
 4. nmap -network mapper
 5. check which host is up and which is down
 6. nmap[Target IP]
-7,
+7. npnamp -sn  to find host is up or down
+8. nmap -su[IP]  -UDP scan
+9. install metasploit
+10. nmap -st [IP]   TCP scan
+11. NMAP -SV [ip]   -version detection
+12. nmap - o[ip]  - os detection
+13. nmap -A[ip]   aggresive detection
+
 ```
 
