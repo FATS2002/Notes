@@ -74,4 +74,32 @@ Listing in linux-  ls -a
 
 ![image](https://github.com/user-attachments/assets/94d9addb-c054-4059-bfc7-1dad04204390)
 
+7-10-24
+
+ping in Linux
+```
+ping google.com 
+
+```
+To stop ping
+```
+control + c  
+```
+
+```
+TTL Values ; Linux/MAC OS – 64 ; Windows – 128 ; Cisco Routers – 255 ; DNS – depends on the DNS resolver (can range from 128 to 86400).
+
+Link: https://www.cloudflare.com/learning/ddos/glossary/internet-control-message-protocol-icmp/
+```
+scan through whole internet network
+```
+arp.scan - to find IP address 
+
+192.168.01  apart fromt this all other IPa  
+we'll do ARP scan and find IP address of kali Linux
+subnetting class
+1ST   N.H.H.H
+2ND   N.N.H.H
+3RD   N.N.N.H
+``
 
