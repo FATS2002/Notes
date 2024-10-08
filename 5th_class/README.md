@@ -169,4 +169,5 @@ launch expoits smore
 to run meta exptoliable tool
      bad-blue windows 7
  ```
+``` shell ipconfig cd.. ```
  
