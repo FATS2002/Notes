@@ -134,8 +134,39 @@ chapter-NMAP scanning
 
 
 ```
-Tools
-```
-wireshark to analyze the nw traffic
+##### Tools
 
 ```
+wireshark to analyze the network traffic
+```
+
+6 Flags
+
+```
+
+```
+types of network scanner
+```
+-nmap
+-fping
+process of 3 way handshake
+```
+commands of analysing wireshark
+
+```
+
+```
+
+to know whether machine is up and down
+ping[ip]
+fping -sT[ip]
+
+scripting and ennumeration definition:
+
+```
+msfconsole -
+launch expoits smore
+to run meta exptoliable tool
+     bad-blue windows 7
+ ```
+ 
