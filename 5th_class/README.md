@@ -87,8 +87,10 @@ control + c
 ```
 
 ```
-TTL Values ; Linux/MAC OS – 64 
-Windows – 128 ; Cisco Routers – 255 
+TTL Values ;
+Linux/MAC OS – 64 
+Windows – 128 ;
+Cisco Routers – 255 
 DNS – depends on the DNS resolver (can range from 128 to 86400).
 ```
 ```
