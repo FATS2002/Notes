@@ -122,11 +122,11 @@ chapter-NMAP scanning
 3. fping  fping -q    /grep "is alive"
 4. nmap -network mapper
 5. check which host is up and which is down
-6. nmap[Target IP]
+6. nmap[Target ip]
 7. npnamp -sn  to find host is up or down
 8. nmap -su[IP]  -UDP scan
 9. Install metasploitableTool
-10. nmap -st [IP]   TCP scan
+10. nmap -st [ip]   TCP scan
 11. NMAP -SV [ip]   -version detection
 12. nmap - o[ip]  - os detection
 13. nmap -A[ip]   aggresive detection
